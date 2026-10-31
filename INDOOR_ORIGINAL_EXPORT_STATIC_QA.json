@@ -1,0 +1,621 @@
+{
+  "scope": "static Python AST parsing; no imports, installations, numerical executions or application runtime tests",
+  "python_ast": [
+    {
+      "path": "application/restored_assets/colab_bundle.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/colab_checks.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/colab_dashboard.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/colab_runtime.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/colab_service.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/__init__.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/air.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/assistant.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/entry_advisory.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/experiments.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/exploration.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/flight_service.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/fluorescence.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/hyperskills.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/layouts.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/live.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/provider_auth.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/room_flow.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/self_flight.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/server.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/simulation.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/static_compression.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/train_vision.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/vision.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/voice_languages.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/wet_window.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/wing_flow.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/indoor_lab/wing_material.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/launch_indoor_local.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/notebook_cells/launch_dashboard.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/notebook_cells/prepare_project.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/notebook_cells/repair_dashboard.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/reports/revision35_benchmark.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/run_independent_audits.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/run_indoor_checks.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/run_indoor_smartdust.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/run_material_sweep.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/run_wing_flow.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/__init__.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/config.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/controller.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/environment.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/math3d.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/particle_geometry.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/particle_physics.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/physics.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/planet_appearance.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/private_setup.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/terrain.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/terrain_cache.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/smartdust_lab/terrain_variants.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_hardware/test_fluorescence_budget_r43.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/_navigation_energy_r30.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/_pid_test_adapter.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/browser/test_dashboard.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_accumulation_air.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_airflow_integration_r39.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_alert_voice_r46.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_assistant.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_backend.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_bioaerosol_presets_r43.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_clock_budget_r27.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_colab_bundle_r32.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_colab_checks_r32.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_colab_dashboard_r48.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_colab_runtime_r14.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_colab_service_r14.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_colab_sortie_r37.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_emergency_r21.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_energy_autonomy_r36.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_entry_advisory_r47.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_experiments_v10.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_exploration_mcts.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_facilities_multifloor.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_flight_service_r36.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_floor_commands_r35.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_fluorescence_alerts_r45.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_fluorescence_navigation_r43.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_fluorescence_r43.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_handoff_backend_r45.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_handoff_concurrency_r18.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_hardware_integration_r31.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_humidity_independent_r40.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_humidity_sensor_r43.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_hyperskills.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_incidents_r20.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_live.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_live_voice_r45.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_manual_handoff_r22.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_multilingual_r16.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_navigation_3d.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_navigation_guard.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_navigation_multifloor.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_notebook_links_r48.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_ns_independent_r39.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_performance.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_private_keys_r41.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_provider_auth_r23.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_room_conditions.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_room_enclosures_v9.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_room_flow_r39.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_runtime_clock_v14.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_self_flight_r30.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_sensing_integration_r43.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_sortie_profile_r37.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_static_compression_r32.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_tetrahedron_r25.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_trend_history_r19.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_trend_pagination_r44.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_tunnel_recovery_r48.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_two_bioaerosol_sources_r47.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_vision.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_vision_api.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_wet_window_r40.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_wing_clearance_r34.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_wing_flow_r39.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_indoor/test_wing_material_r40.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_wetoptics/test_core.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/tests_wetoptics/test_integration.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/audit_dust_revision.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/audit_revision13.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/audit_revision15.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/audit_revision20.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/audit_revision6.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/audit_revision7.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/audit_smooth_revision12.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/emergency_http_server_r21.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/revision36_independent_review.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/revision37_independent_review.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/revision39_measurements.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/revision40_measurements.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/test_camera_api.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/test_independent_edge_cases.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/test_independent_runtime.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/validation_indoor/test_model_independent.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/__init__.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/benchmark.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/cnn.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/evaluation.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/integration.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/methods.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/physics.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/report.py",
+      "parse": "pass"
+    },
+    {
+      "path": "application/restored_assets/wetoptics/scenes.py",
+      "parse": "pass"
+    },
+    {
+      "path": "build_export_manifest.py",
+      "parse": "pass"
+    },
+    {
+      "path": "media/chain/render_chain.py",
+      "parse": "pass"
+    },
+    {
+      "path": "media/chain/validate_interpolation.py",
+      "parse": "pass"
+    },
+    {
+      "path": "research/revised_passive_pitch/analyze.py",
+      "parse": "pass"
+    },
+    {
+      "path": "research/revised_passive_pitch/confirm.py",
+      "parse": "pass"
+    },
+    {
+      "path": "research/revised_passive_pitch/review/check.py",
+      "parse": "pass"
+    },
+    {
+      "path": "research/revised_passive_pitch/review/parity.py",
+      "parse": "pass"
+    },
+    {
+      "path": "research/revised_passive_pitch/run.py",
+      "parse": "pass"
+    },
+    {
+      "path": "research/revised_passive_pitch/sources/legacy_preload.py",
+      "parse": "pass"
+    },
+    {
+      "path": "research/revised_passive_pitch/sources/mechanism.py",
+      "parse": "pass"
+    }
+  ]
+}
