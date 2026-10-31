@@ -1,0 +1,174 @@
+{
+  "scope": "Individual indoor documentation, not a runnable project or new scientific validation. Manifest excludes itself. Source originals remain unchanged.",
+  "files": [
+    {
+      "filename": "INDOOR_README.md",
+      "github_destination": "README.md",
+      "source_path": "/tmp/indoor_github_export_20261031/README.md",
+      "sha256": "de3de739987fe571de8e062a8306f47b050fc71afa6d201050d9d43da611d638",
+      "bytes": 4819,
+      "note": "Unchanged source copy"
+    },
+    {
+      "filename": "INDOOR_RIGHTS_AND_NOTICES.md",
+      "github_destination": "RIGHTS_AND_NOTICES.md",
+      "source_path": "/tmp/indoor_github_export_20261031/RIGHTS_AND_NOTICES.md",
+      "sha256": "04a0b81e79a17ff8e02ec8189613c3b62b5865db51e325c812fcbc0f300d0b4c",
+      "bytes": 707,
+      "note": "Unchanged source copy"
+    },
+    {
+      "filename": "INDOOR_MATH_AND_TIMING.md",
+      "github_destination": "docs/MATH_AND_TIMING.md",
+      "source_path": "/tmp/indoor_github_export_20261031/docs/MATH_AND_TIMING.md",
+      "sha256": "5b30bda79b525c6344cb3972a218869a5aebf520b2b83e07fbf51a9b74ca637d",
+      "bytes": 3078,
+      "note": "Unchanged source copy"
+    },
+    {
+      "filename": "INDOOR_STATUS.md",
+      "github_destination": "docs/STATUS.md",
+      "source_path": "/tmp/indoor_github_export_20261031/docs/STATUS.md",
+      "sha256": "fffdff7dd3e6d054cabf9a958c7e411a918b61377e4bf6de3e94716c221b504b",
+      "bytes": 2236,
+      "note": "Unchanged source copy"
+    },
+    {
+      "filename": "INDOOR_PORTABILITY.md",
+      "github_destination": "docs/PORTABILITY.md",
+      "source_path": "/tmp/indoor_github_export_20261031/docs/PORTABILITY.md",
+      "sha256": "a91d9cd71e0b665abf172d355c272fb0e9c61be128d194b8ca4d51880d4c1feb",
+      "bytes": 2309,
+      "note": "Unchanged source copy"
+    },
+    {
+      "filename": "INDOOR_APPLICATION_EXPLANATION.md",
+      "github_destination": "docs/INDOOR_APPLICATION_EXPLANATION.md",
+      "source_path": "/tmp/math_explanations_20261031/deliverables/INDOOR_APPLICATION_EXPLANATION.md",
+      "sha256": "ad3cd7a1acfb830fb249a7faae736167c59fa87287019ed8aad5a64393d24872",
+      "bytes": 8614,
+      "note": "Latest reviewed equation-expanded documentation; replaces earlier explanation only, not scientific evidence"
+    },
+    {
+      "filename": "INDOOR_RESEARCH_VIDEO_EXPLANATION.md",
+      "github_destination": "docs/INDOOR_RESEARCH_VIDEO_EXPLANATION.md",
+      "source_path": "/tmp/math_explanations_20261031/deliverables/INDOOR_RESEARCH_VIDEO_EXPLANATION.md",
+      "sha256": "fc0f727549f3c83b7a05af73e4b102614182ff362b1017f3075b767425d1fbc4",
+      "bytes": 8158,
+      "note": "Latest reviewed equation-expanded documentation; replaces earlier explanation only, not scientific evidence"
+    },
+    {
+      "filename": "INDOOR_ORIGINAL_EXPORT_MANIFEST.json",
+      "github_destination": "docs/archive/original_export/MANIFEST.json",
+      "source_path": "/tmp/indoor_github_export_20261031/MANIFEST.json",
+      "sha256": "2d45ecf37ae8d802c7c17da0e14ba26e5356449511fdea5cfb99c5f58e2bbb8d",
+      "bytes": 118601,
+      "note": "Historical original export record; not a manifest of this later documentation overlay"
+    },
+    {
+      "filename": "INDOOR_ORIGINAL_EXPORT_PROVENANCE.json",
+      "github_destination": "docs/archive/original_export/PROVENANCE.json",
+      "source_path": "/tmp/indoor_github_export_20261031/PROVENANCE.json",
+      "sha256": "fbb7a6f8397ef1ab4fdf0e115daa8d6d45a2cb6df5b32e89974743d7339dc6c0",
+      "bytes": 198224,
+      "note": "Historical original export record; not a manifest of this later documentation overlay"
+    },
+    {
+      "filename": "INDOOR_ORIGINAL_EXPORT_EXPORT_QA.json",
+      "github_destination": "docs/archive/original_export/EXPORT_QA.json",
+      "source_path": "/tmp/indoor_github_export_20261031/EXPORT_QA.json",
+      "sha256": "2f0b2faf5f2cdd9973b40adcae95d56056e04c8d66cd67671c6f9299c8b3d196",
+      "bytes": 1291,
+      "note": "Historical original export record; not a manifest of this later documentation overlay"
+    },
+    {
+      "filename": "INDOOR_ORIGINAL_EXPORT_STATIC_QA.json",
+      "github_destination": "docs/archive/original_export/STATIC_QA.json",
+      "source_path": "/tmp/indoor_github_export_20261031/STATIC_QA.json",
+      "sha256": "766be6929cc0b1b15046535eb7e636290b89eb0750c2863d904df678083dbcc2",
+      "bytes": 17429,
+      "note": "Historical original export record; not a manifest of this later documentation overlay"
+    },
+    {
+      "filename": "INDOOR_ORIGINAL_EXPORT_SECRET_SCAN.json",
+      "github_destination": "docs/archive/original_export/SECRET_SCAN.json",
+      "source_path": "/tmp/indoor_github_export_20261031/SECRET_SCAN.json",
+      "sha256": "28d7374f4925c03fd4ddca351bb9839b8e0b9a22b610d3eb9d2db06e2e9bab3a",
+      "bytes": 10917,
+      "note": "Historical original export record; not a manifest of this later documentation overlay"
+    },
+    {
+      "filename": "INDOOR_ORIGINAL_EXPORT_IMPORT_INVENTORY.json",
+      "github_destination": "docs/archive/original_export/IMPORT_INVENTORY.json",
+      "source_path": "/tmp/indoor_github_export_20261031/IMPORT_INVENTORY.json",
+      "sha256": "8ce67110312fa95061a749a7b87a95aeca052448afb9eceaa64dd98cd8daf9e1",
+      "bytes": 37238,
+      "note": "Historical original export record; not a manifest of this later documentation overlay"
+    },
+    {
+      "filename": "INDOOR_STUDY_PROTOCOL.md",
+      "github_destination": "research/revised_passive_pitch/PROTOCOL.md",
+      "source_path": "/tmp/indoor_github_export_20261031/research/revised_passive_pitch/PROTOCOL.md",
+      "sha256": "6e4d58acdc08db8492646a1a636734bd2a97de1313b998eba3424d3fde5beaa7",
+      "bytes": 3065,
+      "note": "Historical study document preserved unchanged; later confirmations remain separate"
+    },
+    {
+      "filename": "INDOOR_STUDY_REPORT.md",
+      "github_destination": "research/revised_passive_pitch/REPORT.md",
+      "source_path": "/tmp/indoor_github_export_20261031/research/revised_passive_pitch/REPORT.md",
+      "sha256": "03aacbdf81d171e4bc1bad854a54433234d53b95118f6f98dd2a7015bd9a38d5",
+      "bytes": 6418,
+      "note": "Historical study document preserved unchanged; later confirmations remain separate"
+    },
+    {
+      "filename": "INDOOR_STUDY_POST_SCREEN_VERIFICATION.md",
+      "github_destination": "research/revised_passive_pitch/POST_SCREEN_VERIFICATION.md",
+      "source_path": "/tmp/indoor_github_export_20261031/research/revised_passive_pitch/POST_SCREEN_VERIFICATION.md",
+      "sha256": "aacf3396a34cf21c1f394a604d65f9cad38d1afec36191aff0b18891ac29b9a8",
+      "bytes": 721,
+      "note": "Historical study document preserved unchanged; later confirmations remain separate"
+    },
+    {
+      "filename": "INDOOR_STUDY_SOURCES_AND_BOUNDS.md",
+      "github_destination": "research/revised_passive_pitch/SOURCES_AND_BOUNDS.md",
+      "source_path": "/tmp/indoor_github_export_20261031/research/revised_passive_pitch/SOURCES_AND_BOUNDS.md",
+      "sha256": "041a2736e2e20e225742ff8923a3dd7767afbfacc60de1569e5059d6a459c587",
+      "bytes": 2206,
+      "note": "Historical study document preserved unchanged; later confirmations remain separate"
+    },
+    {
+      "filename": "INDOOR_STUDY_INDEPENDENT_REVIEW.md",
+      "github_destination": "research/revised_passive_pitch/review/REVIEW.md",
+      "source_path": "/tmp/indoor_github_export_20261031/research/revised_passive_pitch/review/REVIEW.md",
+      "sha256": "177fa98c538fb8576c5555514187c1fcc257881765601cdbea3f03b9ec266a98",
+      "bytes": 6407,
+      "note": "Historical independent study review; read alongside post-screen confirmations"
+    },
+    {
+      "filename": "INDOOR_CONTRIBUTING.md",
+      "github_destination": "CONTRIBUTING.md",
+      "source_path": null,
+      "sha256": "1653c3f29119c3899e2fb12d0cd97cb705d1c3b8d78edfa3157a3cdbc04aaf5f",
+      "bytes": 2714,
+      "note": "New documentation only; no scientific or code changes"
+    },
+    {
+      "filename": "INDOOR_MATH_SOURCE_MAP.md",
+      "github_destination": "docs/MATH_SOURCE_MAP.md",
+      "source_path": null,
+      "sha256": "755b0e5b23d8e093ea1a20b831f572d2ee4fc9906968153d64abf4e940022d52",
+      "bytes": 1494,
+      "note": "New documentation only; no scientific or code changes"
+    },
+    {
+      "filename": "INDOOR_GITHUB_FILE_MAP.md",
+      "github_destination": "docs/GITHUB_FILE_MAP.md",
+      "source_path": null,
+      "sha256": "93b490f4b0bbe37082c0a7dd7997f04ab677a201fe1253f75ef7d2d0528b0bf2",
+      "bytes": 4647,
+      "note": "New delivery-to-GitHub mapping"
+    }
+  ],
+  "copied_files_verified_unchanged": true
+}
